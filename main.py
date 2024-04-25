@@ -1,3 +1,14 @@
+"""
+Author:         Addelyn Nicholson
+Date:           04/05/2024
+Assignment:     Project 02
+Course:         CPSC1050
+Lab Section:    SECTION 001
+
+CODE DESCRIPTION: This project utilizes various classes, methods, and functions to create a terminal based RPG escape game. The premise of the game is that Remi from Ratatouille is recaptured by the villain, Skinner. 
+GITHUB: https://github.com/addienicholson/RPGprojectAddelyn.git
+"""
+
 from Food import *
 from Recipe import *
 from PublixMap import *
